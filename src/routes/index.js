@@ -1,8 +1,8 @@
 import express from 'express';
-import users from './users'
+import animals from './animals'
 
 const router = express.Router();
 
-router.use('/api/v1/users', users)
+router.use('/api/v1/animals', animals)
 
 export default router;

@@ -1,5 +1,5 @@
 {
-    "name": "expense-tracker",
+    "name": "animal-detection-backend",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -41,7 +41,6 @@
         "sequelize-cli": "^6.4.1"
     },
     "dependencies": {
-        "@hapi/joi": "15.0.3",
         "cors": "^2.8.5",
         "express": "^4.18.1"
     }
