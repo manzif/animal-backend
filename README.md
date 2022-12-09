@@ -1,6 +1,6 @@
 # Overview
 
-**The Animal Detection server** will save all the data captured by a raspberry pie and cleaned by the animal detection model, and create a GeoJSON layer to put on a map. So far the application has 2 APIs, one to save the data and another to create a layer.
+**Expense tracker** This a project that helps to keep track of expenses. I am writing the code with the help of ChatGPT. I want to see if I can finish a project with it.
 
 ### Getting Started
 

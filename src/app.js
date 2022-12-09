@@ -9,7 +9,7 @@ app.use(urlencoded({ extended: false }));
 app.use(json({ limit: '50mb' }))
 app.use(routes);
 
-const PORT = process.env.PORT || 5500;
+const PORT = process.env.PORT || 4000;
 
 app.get('/test', async (req, res) => {
     res.json({ status: true, message: "Our node.js app works" })

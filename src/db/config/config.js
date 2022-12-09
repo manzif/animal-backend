@@ -7,7 +7,7 @@ const config = {
   development: {
     username: "postgres",
     password: "password",
-    database: "animal-data",
+    database: "expense-tracker",
     host: "127.0.0.1",
     dialect: 'postgres',
     operatorsAliases: false,
